@@ -1,3 +1,19 @@
+# Personal Dashboard
+
+Personal dashboard to display when I open the browser.
+
+Features
+ - Individual users (login/auth)
+ - To-Do list
+ - Weather widget.
+ - Downtime detector of personal websites.
+ - Debt payoff tracker.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
